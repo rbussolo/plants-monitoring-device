@@ -36,3 +36,5 @@ The first parameter is the name of device (must to be unique). Other parameters:
 - \-\-api (path to server)
 - \-\-user (email of user linked with this device)
 - \-\-city (name of city that will capture the data)
+
+Default user is "rbussolo91@gmail.com", has a SQL in backend project with insert of this user.
